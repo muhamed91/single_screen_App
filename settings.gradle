@@ -1,0 +1,2 @@
+rootProject.name='MSW4t'
+include ':app'
